@@ -1,0 +1,6 @@
+#Pet Utils
+cannot-damage-own-pets: false
+# NONE|OWNER|KILLER_AND_OWNER|RADIUS|WORLD|SERVER
+pet-death-message: "OWNER"
+protect-ridables: false
+enable-givepet: false

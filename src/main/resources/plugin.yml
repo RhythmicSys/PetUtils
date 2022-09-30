@@ -1,0 +1,4 @@
+name: PetUtils
+version: '${project.version}'
+main: adhdmc.petutils.PetUtils
+api-version: 1.19
